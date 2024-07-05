@@ -1,0 +1,30 @@
+index.<!-- ========== Start Section ========== -->
+    line no : 96 - 120
+
+              <div class="col-md-4">
+                  <a href="bhumika.html" target="_blank" class="portfolio-card">
+                      <img class="portfolio-card-img" src="assets/imgs/bhumika.png" class="img-responsive rounded"
+                          alt="img">
+                      <span class="portfolio-card-overlay">
+                          <span class="portfolio-card-caption">
+                              <h4>Bhumika Verma</h5>
+                                  <p class="font-weight-normal">Web Developer </p>
+                          </span>
+                      </span>
+                  </a>
+              </div>
+              <div class="col-md-4">
+                  <a href="gaurav.html" target="_blank" class="portfolio-card">
+                      <img class="portfolio-card-img" src="assets/imgs/gaurav2.png" class="img-responsive rounded"
+                          alt="img">
+                      <span class="portfolio-card-overlay">
+                          <span class="portfolio-card-caption">
+                              <h4>Gaurav Singh</h5>
+                                  <p class="font-weight-normal">Web Developer</p>
+                          </span>
+                      </span>
+                  </a>
+              </div>
+
+
+<!-- ========== End Section ========== -->
