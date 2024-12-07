@@ -11192,7 +11192,7 @@ p {
 }
 
 .portfolio-card .portfolio-card-img {
-  width: 100%;
+  width: 60%;
 }
 
 .portfolio-card .portfolio-card-overlay {
@@ -11230,14 +11230,14 @@ p {
   -webkit-transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
       transform: translate(-50%, -50%);
-  width: 100%;
+  width: 60%;
 }
 
 .portfolio-card:hover .portfolio-card-overlay {
   opacity: 1;
   visibility: visible;
-  width: 100%;
-  height: 100%;
+  width: 60%;
+  height: 60%;
   border-radius: 0;
 }
 
